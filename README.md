@@ -36,4 +36,5 @@
 
 ### 其他游戏
 [文明](https://github.com/bingler1978/civilization) 一个模拟穿越人类历史瞬间的AI文字游戏
+
 [仙术对决:五行之战](https://github.com/bingler1978/the-five-elements)一个东方五行为基础的AI回合制对战游戏
