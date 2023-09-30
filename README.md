@@ -21,6 +21,10 @@
 你可以选择系统提供的各种策略，也可以完全按照自己的想法来行动。你可以自由组合你具备的天赋能力，尝试创造不一样的仙术，但是仙术的能力会受到你投入的天赋点数的影响，以免过于逆天。
 
 ### 点击[链接](the-five-elements.txt)，将所有代码拷贝到GPT4对话框中，即可开始体验游戏
+### 或者点击[逻辑俄罗斯方块](https://chat.openai.com/share/8d6fa55a-0375-48c6-b612-9842a8586aff)直接继续我的游戏
+
+<img src="./screencapture.png" width="500">
+
 
 ### 注意事项
 ⚠️ **注意**: 请开启 GPT-4 的 Advanced Data Analysis（原 Code Interpreter）功能，否则本游戏可能玩着玩着就忘了之前的设定
@@ -38,3 +42,5 @@
 [文明](https://github.com/bingler1978/civilization) 一个模拟穿越人类历史瞬间的AI文字游戏
 
 [仙术对决:五行之战](https://github.com/bingler1978/the-five-elements)一个东方五行为基础的AI回合制对战游戏
+
+[逻辑俄罗斯方块](https://github.com/bingler1978/Logical-tetris)一个用逻辑来找到单词之间的共性，删除单词的游戏，特别适合小孩子
